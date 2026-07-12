@@ -48,7 +48,9 @@ I build AI-powered software for real trades (starting with sign shops), tools th
 
 ## 📈 Stats
 
-![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dburks-svg&show_icons=true&theme=tokyonight&hide_border=true)
+![Dana's contribution streak](https://streak-stats.demolab.com?user=dburks-svg&theme=tokyonight&hide_border=true)
+
+![Dana's contribution graph](https://ghchart.rshah.org/26a641/dburks-svg)
 
 ---
 
