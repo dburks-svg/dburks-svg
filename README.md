@@ -16,7 +16,7 @@ I build AI-powered software for real trades (starting with sign shops), tools th
 ## 🛠️ For freelancers and builders
 
 - **[ClientLine](https://clientline.cc)** - The 60-second client portal for freelancers. One secure link, no client login, the whole project on a single timeline: file requests, deliveries, updates.
-- **[BuildSpin](https://buildspin.win)** - Free to pull. Dangerous to win. A cursed arcade slot machine that mutates your idea into a ridiculous but buildable concept, plus a prompt you can paste into any AI builder.
+- **Discombobulator** - Drop your vibecoded disaster, hit the button. A multi-model AI brigade audits and diagnoses your code from every angle, then hands back a production-ready project and a full Discombobulation Report.
 
 ## 🧠 Keeping AI honest
 
@@ -28,6 +28,7 @@ I build AI-powered software for real trades (starting with sign shops), tools th
 ## 🏺 Curiosities
 
 - **[GLYPH](https://github.com/Nuralyn/GLYPH)** - Ground-Level Yield of Patterned Histories. Archaeological pattern analysis that asks whether an ancient site is encoding information. One HTML file, no install. [Live demo](https://glyph.nuralyn.com).
+- **[BuildSpin](https://buildspin.win)** - Free to pull. Dangerous to win. A cursed arcade slot machine that mutates your idea into a ridiculous but buildable concept, plus a prompt you can paste into any AI builder.
 
 ## 🧰 Tools I reach for
 
