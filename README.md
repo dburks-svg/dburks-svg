@@ -16,7 +16,7 @@ I build AI-powered software for real trades (starting with sign shops), tools th
 ## 🛠️ For freelancers and builders
 
 - **[ClientLine](https://clientline.cc)** - The 60-second client portal for freelancers. One secure link, no client login, the whole project on a single timeline: file requests, deliveries, updates.
-- **Discombobulator** - Drop your vibecoded disaster, hit the button. A multi-model AI brigade audits and diagnoses your code from every angle, then hands back a production-ready project and a full Discombobulation Report.
+- **[Discombobulator](https://discotec.dev)** - Drop your vibecoded disaster, hit the button. A multi-model AI brigade audits and diagnoses your code from every angle, then hands back a production-ready project and a full Discombobulation Report.
 
 ## 🧠 Keeping AI honest
 
