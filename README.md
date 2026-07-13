@@ -1,4 +1,4 @@
-# Hey, I'm Dana 👋
+# Hey, I'm Zamphere 👋
 
 **Self-appointed AI Architect and latchkey kid.** Learning in public 📖 Powered by caffeine and a unreasonable need to ship.
 
