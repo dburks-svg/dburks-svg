@@ -19,13 +19,14 @@ Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, everyt
 
 - **[ClientLine](https://clientline.cc)** - The 60-second client portal for freelancers. One secure link, no client login, the whole project on a single timeline: file requests, deliveries, updates.
 - **[Discombobulator](https://discotec.dev)** - Drop your vibecoded disaster, hit the button. A multi-model AI brigade audits and diagnoses your code from every angle, then hands back a production-ready project and a full Discombobulation Report.
+- **[LYNS](https://lyns.dev)** - A local-first desktop workspace for people who live in the terminal: multiplexed shells, zoned multi-monitor layouts, and AI tooling that respects your machine.
+- **[LYNS Voice](https://lyns.app)** - The voice of Claude Code. Speak a request and Oracle, a glowing holographic orb, listens, thinks, and talks back while conducting parallel Claude sessions. Speech runs entirely on-device: no cloud, no account, no keyboard required.
 
 ## 🧠 Keeping AI honest
 
 - **[Bench](https://github.com/Nuralyn/Bench)** - Constitutional governance for Claude Code. Every proposed change is challenged, defended, ruled on, and recorded in an auditable ledger before it touches your files.
 - **Claude's Wisdom** *(not yet public)* - An epistemology engine for LLMs. It stores principles instead of facts, then actively tries to break them, so its knowledge gets sharper over time instead of just larger.
 - **[Mulberry](https://mulberry.dev)** - A governed AI loop builder. Contracts instead of vibes, export-first by design.
-- **[LYNS](https://lyns.dev)** - A local-first desktop workspace for people who live in the terminal: multiplexed shells, zoned multi-monitor layouts, and AI tooling that respects your machine.
 
 ## 🏺 Curiosities
 
