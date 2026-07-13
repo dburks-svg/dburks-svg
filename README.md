@@ -1,6 +1,6 @@
 # Hey, I'm Zamphere 👋
 
-**Self-appointed AI Architect and latchkey kid.** Learning in public 📖 Powered by caffeine and a unreasonable need to ship.
+**Self-appointed AI architect. Latchkey kid. Sign-industry veteran.** Learning in public 📖 Powered by caffeine and a unreasonable need to ship.
 
 I build AI-powered software for real trades (starting with sign shops), tools that keep AI honest, and the occasional beautiful oddity. Most of it ships under **[Nuralyn](https://github.com/Nuralyn)**.
 
