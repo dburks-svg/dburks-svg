@@ -1,6 +1,6 @@
 # Hey, I'm Zamphere 👋
 
-**Self-appointed AI architect. Latchkey kid. Sign-industry veteran.** Learning in public 📖 Powered by caffeine and a unreasonable need to ship.
+**Self-appointed AI architect. Latchkey kid. Sign-industry veteran.** Learning in public 📖 Powered by caffeine and an unreasonable need to ship.
 
 I build AI-powered software for real trades (starting with sign shops), tools that keep AI honest, and the occasional beautiful oddity. Most of it ships under **[Nuralyn](https://github.com/Nuralyn)**.
 
@@ -21,7 +21,7 @@ I build AI-powered software for real trades (starting with sign shops), tools th
 ## 🧠 Keeping AI honest
 
 - **[Bench](https://github.com/Nuralyn/Bench)** - Constitutional governance for Claude Code. Every proposed change is challenged, defended, ruled on, and recorded in an auditable ledger before it touches your files.
-- **Claude's Wisdom** - An epistemology engine for LLMs. It stores principles instead of facts, then actively tries to break them, so its knowledge gets sharper over time instead of just larger.
+- **Claude's Wisdom** *(not yet public)* - An epistemology engine for LLMs. It stores principles instead of facts, then actively tries to break them, so its knowledge gets sharper over time instead of just larger.
 - **[Mulberry](https://mulberry.dev)** - A governed AI loop builder. Contracts instead of vibes, export-first by design.
 - **[LYNS](https://lyns.dev)** - A local-first desktop workspace for people who live in the terminal: multiplexed shells, zoned multi-monitor layouts, and AI tooling that respects your machine.
 
@@ -48,9 +48,12 @@ I build AI-powered software for real trades (starting with sign shops), tools th
 
 ## 📈 Stats
 
-![Dana's contribution streak](https://streak-stats.demolab.com?user=dburks-svg&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dburks-svg&theme=tokyonight&hide_border=true">
+  <img alt="Zamphere's contribution streak" src="https://streak-stats.demolab.com?user=dburks-svg&hide_border=true">
+</picture>
 
-![Dana's contribution graph](https://ghchart.rshah.org/26a641/dburks-svg)
+![Zamphere's contribution graph](https://ghchart.rshah.org/26a641/dburks-svg)
 
 ---
 
