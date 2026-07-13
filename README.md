@@ -4,6 +4,8 @@
 
 I build AI-powered software for real trades (starting with sign shops), tools that keep AI honest, and the occasional beautiful oddity. Most of it ships under **[Nuralyn](https://github.com/Nuralyn)**.
 
+Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, everything else at **[nuralyn.com](https://nuralyn.com)**.
+
 ---
 
 ## 🏪 For the shops
