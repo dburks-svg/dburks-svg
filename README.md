@@ -13,7 +13,6 @@ Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, everyt
 - **[Wysper](https://wysper.cc)** - Real-time AI sales coaching for sign, print, and custom manufacturing shops. Live cues while the call is happening, a structured quote when it ends. The salesperson is the expert; the AI is the assistant.
 - **[SignSho](https://signsho.com)** - Photorealistic sign visualization. A photo of the building plus your artwork in, a true-to-life mockup out. Close the sale before anything is fabricated.
 - **[Lynventory](https://lynventory.com)** - Inventory management built specifically for sign shops, not warehouses.
-- **[LeadBrief](https://leadbrief.dev)** - Lead enrichment that turns a company name into a sales-ready brief before you dial.
 
 ## 🛠️ For freelancers and builders
 
