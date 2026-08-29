@@ -25,7 +25,6 @@ Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, most e
 
 - **[Bench](https://github.com/Nuralyn/Bench)** - Constitutional governance for Claude Code. Every proposed change is challenged, defended, ruled on, and recorded in an auditable ledger before it touches your files.
 - **Claude's Wisdom** *(not yet public)* - An epistemology engine for LLMs. It stores principles instead of facts, then actively tries to break them, so its knowledge gets sharper over time instead of just larger.
-- **[Mulberry](https://mulberry.dev)** - A governed AI loop builder. Contracts instead of vibes, export-first by design.
 
 ## 🏺 Curiosities
 
