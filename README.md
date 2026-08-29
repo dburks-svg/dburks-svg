@@ -2,9 +2,9 @@
 
 **Self-appointed AI architect. Latchkey kid. Sign-industry veteran.** Learning in public 📖 Powered by caffeine and an unreasonable need to ship.
 
-I build AI-powered software for real trades (starting with sign shops), tools that keep AI honest, and the occasional beautiful oddity. Most of it ships under **[Nuralyn](https://github.com/Nuralyn)**.
+I build software for the sign industry, tools that keep AI honest, and the occasional beautiful oddity. Most of it ships under **[Nuralyn](https://github.com/Nuralyn)**.
 
-Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, everything else at **[nuralyn.com](https://nuralyn.com)**.
+Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, most everything else at **[nuralyn.com](https://nuralyn.com)**.
 
 ---
 
