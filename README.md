@@ -20,6 +20,7 @@ Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, most e
 - **[Discombobulator](https://discotec.dev)** - Drop your vibecoded disaster, hit the button. A multi-model AI brigade audits and diagnoses your code from every angle, then hands back a production-ready project and a full Discombobulation Report.
 - **[The Second Build](https://thesecondbuild.dev)** - An interactive founder education system that covers startup finance, equity, fundraising, venture mechanics, marketing, operations, and governance for an experienced business operator who is new to the venture-backed startup world.
 - **[LYNS Voice](https://lyns.app)** - The voice of Claude Code. Speak a request and Oracle, a glowing holographic orb, listens, thinks, and talks back while conducting parallel Claude sessions. Speech runs entirely on-device: no cloud, no account, no keyboard required.
+- **[Mullberry](https://mulberrybush.dev)** - Governed AI loop builder. Describe a job in one sentence and Mulberry drafts the full rulebook for an AI worker: what it may touch, what it must never do, when it stops, and when it must ask a human first. You review and tune the rules, then export a pack you run yourself in Claude Code, Codex, or any agent runner.
 
 ## 🧠 Keeping AI honest
 
@@ -31,7 +32,6 @@ Looking for me? Sign stuff lives at **[signguy.cc](https://signguy.cc)**, most e
 - **[GLYPH](https://github.com/Nuralyn/GLYPH)** - Ground-Level Yield of Patterned Histories. Archaeological pattern analysis that asks whether an ancient site is encoding information. One HTML file, no install. [Live demo](https://glyph.nuralyn.com).
 - **[BuildSpin](https://buildspin.win)** - Free to pull. Dangerous to win. A cursed arcade slot machine that mutates your idea into a ridiculous but buildable concept, plus a prompt you can paste into any AI builder.
 - **[Poliety](https://poliety.com)** - Poliety is a B2A infrastructure company (business to agent: serving AI agents as customers), building the tools, data, trust systems and interfaces businesses need to serve agents.
-- **[Mullberry](https://mulberrybush.dev)** - Governed AI loop builder. Describe a job in one sentence and Mulberry drafts the full rulebook for an AI worker: what it may touch, what it must never do, when it stops, and when it must ask a human first. You review and tune the rules, then export a pack you run yourself in Claude Code, Codex, or any agent runner.
 
 ## 🧰 Tools I reach for
 
